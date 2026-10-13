@@ -1,0 +1,38 @@
+name: 🚀 作品自荐 / 投稿
+description: 自荐你的独立产品、开源工具或设计作品进入周刊与官网展台
+title: "[自荐] "
+labels: ["showcase", "pending-review"]
+body:
+  - type: input
+    id: product_name
+    attributes:
+      label: 作品 / 产品名称
+      placeholder: 例如：Pixsolo / Figma Design System
+    validations:
+      required: true
+  - type: dropdown
+    id: product_type
+    attributes:
+      label: 作品形态
+      options:
+        - 独立产品 / Web 应用 / SaaS
+        - 移动 App (iOS/Android)
+        - 开源工具 / 开发者套件 / API
+        - UI/UX 设计资产 / 灵感作品
+        - 微信小程序 / 桌面端 / 插件
+    validations:
+      required: true
+  - type: input
+    id: website_url
+    attributes:
+      label: 访问链接 / 体验地址 / 作品主页
+      placeholder: 官网网址、GitHub 地址、或 Dribbble/Figma/Behance 链接
+    validations:
+      required: true
+  - type: textarea
+    id: tagline
+    attributes:
+      label: 一句话介绍
+      placeholder: 用简短的一两句话说明该作品的核心特色或解决的痛点...
+    validations:
+      required: true
