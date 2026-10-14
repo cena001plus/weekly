@@ -41,3 +41,19 @@ body:
       placeholder: 用简短的一两句话说明该作品的核心特色或解决的痛点...
     validations:
       required: true
+  - type: textarea
+    id: logo
+    attributes:
+      label: 产品 Logo
+      description: 将 Logo 图片拖拽或粘贴到下方输入框即可上传，建议使用正方形图片。
+      placeholder: 拖拽或粘贴 Logo 图片到此处...
+    validations:
+      required: false
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: 产品截图
+      description: 将截图拖拽或粘贴到下方输入框即可上传，可上传多张，最多不超过 8 张。
+      placeholder: 拖拽或粘贴截图到此处（最多 8 张）...
+    validations:
+      required: false
