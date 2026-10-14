@@ -8,7 +8,7 @@
 
 ## 📌 如何自荐你的作品？
 
-1. **GitHub 自荐（推荐）**：直接点击 👉 **[新建自荐 Issue](https://github.com/cena001plus/weekly/issues/new?template=submit.yml)** 提交你的作品。
+1. **GitHub 自荐（推荐）**：直接点击 👉 **[新建自荐 Issue](https://github.com/cena001plus/weekly/issues/new?template=product-submit.yml)** 提交你的作品。
 2. **官网直接上架**：访问我们的官方展台 👉 **[Builderoom](https://www.builderoom.com)**，提交后经审核可直接全站展示。
 
 > 💡 **入选规则**：每周我们会从自荐池与官网已发布的作品中挑选精选项目，汇总为周刊归档，并同步至全网多渠道曝光。

@@ -15,11 +15,16 @@ body:
     attributes:
       label: 作品形态
       options:
-        - 独立产品 / Web 应用 / SaaS
-        - 移动 App (iOS/Android)
-        - 开源工具 / 开发者套件 / API
-        - UI/UX 设计资产 / 灵感作品
-        - 微信小程序 / 桌面端 / 插件
+        - 网页应用
+        - 移动应用
+        - 桌面应用
+        - 小程序
+        - 命令行工具
+        - 扩展与插件
+        - Skill & Agent
+        - API / SDK
+        - 设计作品 & 创意
+        - 其他
     validations:
       required: true
   - type: input
