@@ -10,8 +10,8 @@
 
 我们提供两个提交通道，**建议两个都提交**：每多一个通道，你的作品就多一个展示入口，也多一份流量。
 
-1. **GitHub 自荐**：点击 👉 **[新建自荐 Issue](https://github.com/cena001plus/weekly/issues/new?template=product-submit.yml)** 提交你的作品，Issue 会公开展示在本仓库，被 GitHub 上的开发者看到。
-2. **官网上架**：访问官方展台 👉 **[Builderoom](https://www.builderoom.com)** 提交你的作品，审核通过后即在全站展示，并拥有独立的作品详情页。
+1. **官网上架**：访问官方展台 👉 **[Builderoom](https://www.builderoom.com)** 提交你的作品，审核通过后即在全站展示，并拥有独立的作品详情页。
+2. **GitHub 自荐**：点击 👉 **[新建自荐 Issue](https://github.com/cena001plus/weekly/issues/new?template=product-submit.yml)** 提交你的作品，Issue 会公开展示在本仓库，被 GitHub 上的开发者看到。
 
 > 💡 **入选规则**：每周我们会从自荐池与官网已发布的作品中挑选精选项目，汇总为周刊归档，并同步至全网多渠道曝光。
 
